@@ -18,7 +18,7 @@ hr {
   width: 80vw;
 }
 
-header {
+#header {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -27,7 +27,8 @@ header {
   color: white;
 }
 
-#desktop-nav, #desktop-nav ul {
+#desktop-nav,
+#desktop-nav ul {
   display: none;
 }
 
